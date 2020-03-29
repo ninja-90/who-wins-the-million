@@ -1,1 +1,2 @@
 New File in forked repo
+Line2 by Ninja
